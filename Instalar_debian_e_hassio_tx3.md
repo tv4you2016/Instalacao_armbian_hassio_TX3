@@ -6,9 +6,11 @@ Desse modo, não darei nenhum tipo de suporte a este tutorial, ficando o mesmo a
 
 2 – Depois fazer download do ArmBian https://github.com/ophub/amlogic-s9xxx-armbian/releases
 
-Devem de usar a versão Armbian_bullseye_xxxxx por ser baseada em debian e estar atualizada com a última versão. As imagens de devem de usar são as Armbian_23.02.0_amlogic_s905x3_bullseye_5.15.86_xxxxxxxxxx.img.gz, como tem 2 versões deves experimentar uma delas caso não funcione a que testaste.
+Devem de usar a versão Armbian_bullseye_xxxxx por ser baseada em debian e estar atualizada com a última versão. As imagens de devem de usar são as Armbian_23.11.0_amlogic_s905x3_bookworm_yyyyy_server_xxxxxxxxxx.img.gz.-
+yyyyy = versao da kernel caso nao funcione com a versao mais recente tento com as outras disponíveis 
 
-![imagem debian](https://user-images.githubusercontent.com/43672635/212434755-8fd80164-6986-4765-8f2f-ae728894f838.png)
+![image](https://github.com/tv4you2016/Instalacao_armbian_hassio_TX3/assets/83761813/9cd34026-3976-46b0-990d-8fa183a26bf3)
+
 
 3 – Com uma PEN formatada (podem e devem usar https://www.sdcard.org/downloads/formatter/ para o fazer) vamos flashar a imagem o com o BalenaEtcher ou rufus na PEN.
 
